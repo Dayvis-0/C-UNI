@@ -101,15 +101,15 @@ Para los siguientes ejercicios analice y diseñe un programa en C\#.
 
     El sistema deberá presentar un menú con las siguientes opciones:
 
-1. Registrar producto.  
-2. Listar productos.  
-3. Registrar cliente.  
-4. Registrar venta.  
-5. Buscar producto.  
-6. Consultar stock.  
-7. Mostrar ventas.  
-8. Mostrar reporte de ventas.  
-9. Salir.
+        1. Registrar producto.  
+        2. Listar productos.  
+        3. Registrar cliente.  
+        4. Registrar venta.  
+        5. Buscar producto.  
+        6. Consultar stock.  
+        7. Mostrar ventas.  
+        8. Mostrar reporte de ventas.  
+        9. Salir.
 
    El proyecto debe aplicar variables, estructuras condicionales, estructuras repetitivas, funciones, arreglos o listas, clases y objetos, encapsulamiento, constructores, herencia cuando sea apropiada, polimorfismo, validación de datos y manejo básico de excepciones mediante try-catch. Como desafío final, implemente el almacenamiento de información mediante archivos de texto o archivos JSON para conservar los datos después de cerrar el programa.
 
